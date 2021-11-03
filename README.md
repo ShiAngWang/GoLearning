@@ -1,2 +1,2 @@
-# GoLearning
-My project for learning go.
+# Hellogo
+Hi！Go
